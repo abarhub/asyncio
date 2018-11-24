@@ -16,7 +16,7 @@ public class TestAsynchrone {
 
 
 	@Test
-	public void test01() throws IOException {
+	public void testAsync01() throws IOException {
 
 		final int COMPTEUR = 5000;
 		final long date = System.currentTimeMillis();

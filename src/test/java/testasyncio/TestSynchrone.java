@@ -10,7 +10,7 @@ import java.nio.file.Paths;
 public class TestSynchrone {
 
 	@Test
-	public void test1() throws IOException {
+	public void testSync1() throws IOException {
 
 		final int COMPTEUR = 5000;
 		final long date = System.currentTimeMillis();
